@@ -1,0 +1,12 @@
+{
+  "cipher": "AES-256-GCM",
+  "cipher_sha256": "fd0e1ed841f8d2793b63adaa2884b563b01d0b057ae2104d16e28f09a4e503e0",
+  "cipher_size": 38502890,
+  "filename": "VisionTactile-Installer-13becc6.tar.gz",
+  "iv": "QhhpZKJrICilq1gE",
+  "payload": "packages/fd0e1ed841f8d2793b63adaa2884b563b01d0b057ae2104d16e28f09a4e503e0.bin",
+  "schema_version": 1,
+  "sha256": "e7a51c5d412e70fb6a8d62c9b98d1c4eb0a4a5f8024356390e03fb13d0fde7ef",
+  "size": 38502874,
+  "source_commit": "13becc6c50aeec0facc04c6bcaf11ce4aa8fa9b9"
+}
